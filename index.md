@@ -72,7 +72,7 @@ I'm currently a sophmore at the University of Michigan for Computer Science. I a
 1.  Item three
 1.  Item four
 -->
-### Here are some coding projects I've worked on
+## Here are some coding projects I've worked on
 
 - Created a game on Unity from scratch. It plays similar to Minesweeper but it's only a 5x5 grid and it tells you how many bombs are in each row and column.
   - I also created the above game in Swift, but lost all the data due to transfer from a Mac to PC.
@@ -80,7 +80,7 @@ I'm currently a sophmore at the University of Michigan for Computer Science. I a
 - All projects from the class EECS 280 - Programming and Intro Data Structures
 - All projects from the class EECS 101 - Introduction to Computers and Programming
 
-## Other fun projects I've worked on
+### Other fun projects I've worked on
 
 - Drew illustrations for the book Attachment-Based Yoga & Meditation by Deidre Fay.
 - Created a logo for a restaurant in Cambridge, MA, called Sakana.
