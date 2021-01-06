@@ -6,7 +6,8 @@ yurichen@umich.edu | 617-708-6889
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-<!--[Link to another page](./another-page.html).
+[Link to another page](./another-page.html).
+-->
 
 # Welcome to my website! My name is Yuri Chen.
 
