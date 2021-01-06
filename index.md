@@ -136,7 +136,7 @@ The final element.
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <title>kekayan's Resume</title>
 </head>
-  <body style="width:100%; height:800%; margin:0;">
+  <body style="width:100%; height:1600%; margin:0;">
     <iframe src="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20(1).pdf&embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
   </body>
 </html>
