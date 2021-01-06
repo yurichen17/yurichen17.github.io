@@ -132,7 +132,7 @@ The final element.
 -->
 
 <body>
-    <h1>PDF Example</h1>
-    <p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p>
+    <h1>My Resume</h1>
+    <p>Open a PDF file <a href="yurichen17.github.io/folder/Resume - Yuri Chen</a>.</p>
   </body>
 
