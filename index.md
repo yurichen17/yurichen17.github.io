@@ -133,6 +133,6 @@ The final element.
 
 <body>
     <h1>My Resume</h1>
-    <p>Link: <embeded src="https://yurichen17.github.io/Resume%20-%20Yuri%20Chen%20(1).pdf" type="application/pdf">resume</a></p>
+    <p> <embeded src="https://yurichen17.github.io/Resume%20-%20Yuri%20Chen%20(1).pdf" type="application/pdf"/> </a></p>
   </body>
 
