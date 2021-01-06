@@ -17,25 +17,24 @@ I'm currently a sophmore at the University of Michigan for Computer Science. I a
 
 
 <!--> This is a blockquote following a header.
-<!-->
-<!--> When something is important enough, you do it even if the odds are not in your favor.
-
+ When something is important enough, you do it even if the odds are not in your favor.
+-->
 <!--### Header 3
 
-<!--```js
-<!--// Javascript code with syntax highlighting.
-<!--var fun = function lang(l) {
-<!--  dateformat.i18n = require('./lang/' + l)
-<!--  return true;
-<!--}
-<!--```
+```js
+ Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
 
-<!--```ruby
-<!--# Ruby code with syntax highlighting
-<!--GitHubPages::Dependencies.gems.each do |gem, version|
-<!--  s.add_dependency(gem, "= #{version}")
-<!--end
-<!--```
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 -->
 
 <!--
