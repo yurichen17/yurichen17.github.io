@@ -133,6 +133,6 @@ The final element.
 
 <body>
     <h1>My Resume</h1>
-    <p>Open a PDF file <a href="yurichen17.github.io/folder/Resume - Yuri Chen</a>.</p>
+    <p>Open a PDF file <a href="yurichen17.github.io/folder/Resume - Yuri Chen (1).pdf" target="blank">PDF.</a>.</p>
   </body>
 
