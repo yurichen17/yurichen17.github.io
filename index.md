@@ -2,7 +2,7 @@
 layout: default
 ---
 <html><body> 
-<p> yurichen@umich.edu | 617-708-6889 | <a href="https://www.linkedin.com/in/yuri-chen-4b4ba61a3/" LinkedIn </a> </p>
+<p> yurichen@umich.edu | 617-708-6889 | <a href="https://www.linkedin.com/in/yuri-chen-4b4ba61a3/"> LinkedIn </a> </p>
 </body></html>
  
 
