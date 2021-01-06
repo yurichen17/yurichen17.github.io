@@ -137,7 +137,9 @@ The final element.
   <title>kekayan's Resume</title>
 </head>
   <body style="width:100%; height:500%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20(1).pdf&embedded=true" style="width:100%; height:1000px;" frameborder="0"></iframe>
+    <iframe src="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20(1).pdf&embedded=true" style="width:100%; height:100px;" frameborder="0"></iframe>
   </body>
+ 
+ 
 </html>
 
