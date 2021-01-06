@@ -2,7 +2,7 @@
 layout: default
 ---
 
-yurichen@umich.edu | 617-708-6889
+yurichen@umich.edu | 617-708-6889 | https://www.linkedin.com/in/yuri-chen-4b4ba61a3/
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
