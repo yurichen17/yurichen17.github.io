@@ -6,7 +6,7 @@ yurichen@umich.edu | 617-708-6889
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Resume](./another-page.html).
 -->
 
 # Welcome to my website! My name is Yuri Chen.
@@ -86,7 +86,7 @@ end
 - Drew illustrations for the book Attachment-Based Yoga & Meditation by Deidre Fay.
 - Created a logo for a restaurant in Cambridge, MA, called Sakana.
   
-  <!--
+<!--
   
   - level 2 item
     - level 3 item
@@ -130,3 +130,9 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 -->
+
+<body>
+    <h1>PDF Example</h1>
+    <p>Open a PDF file <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">example</a>.</p>
+  </body>
+
