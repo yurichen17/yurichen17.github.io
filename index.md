@@ -2,7 +2,8 @@
 layout: default
 ---
 
-yurichen@umich.edu | 617-708-6889 | https://www.linkedin.com/in/yuri-chen-4b4ba61a3/
+yurichen@umich.edu | 617-708-6889 |  <html> <a href="https://www.linkedin.com/in/yuri-chen-4b4ba61a3/" LinkedIn </a> </html>
+ 
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
