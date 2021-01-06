@@ -11,7 +11,7 @@ yurichen@umich.edu | 617-708-6889
 
 # Welcome to my website! My name is Yuri Chen.
 
-I'm currently a sophmore at the University of Michigan for Computer Science. My hobbies are video game design, art, and running. 
+I'm currently a sophmore at the University of Michigan for Computer Science. I am also pursuing a minor in Art and Design. My hobbies are video game design, art, and running. 
 
 <!--## Header 2
 
@@ -79,6 +79,11 @@ I'm currently a sophmore at the University of Michigan for Computer Science. My 
 - All projects from the class EECS 281 - Data Structures and Algorithms
 - All projects from the class EECS 280 - Programming and Intro Data Structures
 - All projects from the class EECS 101 - Introduction to Computers and Programming
+
+## Other fun projects I've worked on
+
+- Drew illustrations for the book Attachment-Based Yoga & Meditation by Deidre Fay.
+- Created a logo for a restaurant in Cambridge, MA, called Sakana.
   
   <!--
   
