@@ -36,7 +36,7 @@ I'm currently a sophmore at the University of Michigan for Computer Science. My 
 <!--  s.add_dependency(gem, "= #{version}")
 <!--end
 <!--```
-
+-->
 ### Here are some coding projects I've worked on
 
 -   Created a game on Unity from scratch. It plays similar to Minesweeper but it's only a 5x5 grid and it tells you how many bombs are in each row and column.
@@ -45,7 +45,7 @@ I'm currently a sophmore at the University of Michigan for Computer Science. My 
 -   All projects from the class EECS 280 - Programming and Intro Data Structures
 -   All projects from the class EECS 101 - Introduction to Computers and Programming
 
-
+<!--
 ##### Header 5
 
 1.  This is an ordered list following a header.
@@ -124,3 +124,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
