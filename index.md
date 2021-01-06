@@ -13,12 +13,14 @@ yurichen@umich.edu | 617-708-6889
 
 I'm currently a sophmore at the University of Michigan for Computer Science. I am also pursuing a minor in Art and Design. My hobbies are video game design, art, and running. 
 
-<!--## Header 2
+<!--
+## Header 2
 
 
-<!--> This is a blockquote following a header.
+ This is a blockquote following a header.
  When something is important enough, you do it even if the odds are not in your favor.
 -->
+
 <!--### Header 3
 
 ```js
