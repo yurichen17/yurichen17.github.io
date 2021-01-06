@@ -2,46 +2,48 @@
 layout: default
 ---
 
+yurichen@umich.edu | 617-708-6889
+
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).-->
+<!--[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# Welcome to my website! My name is Yuri Chen.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+I'm currently a sophmore at the University of Michigan for Computer Science. My hobbies are video game design, art, and running. 
 
-# Header 1
+<!--## Header 2
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+<!--> This is a blockquote following a header.
+<!-->
+<!--> When something is important enough, you do it even if the odds are not in your favor.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+<!--### Header 3
 
-### Header 3
+<!--```js
+<!--// Javascript code with syntax highlighting.
+<!--var fun = function lang(l) {
+<!--  dateformat.i18n = require('./lang/' + l)
+<!--  return true;
+<!--}
+<!--```
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+<!--```ruby
+<!--# Ruby code with syntax highlighting
+<!--GitHubPages::Dependencies.gems.each do |gem, version|
+<!--  s.add_dependency(gem, "= #{version}")
+<!--end
+<!--```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Here are some coding projects I've worked on
 
-#### Header 4
+-   Created a game on Unity from scratch. It plays similar to Minesweeper but it's only a 5x5 grid and it tells you how many bombs are in each row and column.
+  - I also created the above game in Swift, but lost all the data due to transfer from a Mac to PC.
+-   All projects from the class EECS 281 - Data Structures and Algorithms
+-   All projects from the class EECS 280 - Programming and Intro Data Structures
+-   All projects from the class EECS 101 - Introduction to Computers and Programming
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
 
 ##### Header 5
 
