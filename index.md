@@ -132,5 +132,5 @@ The final element.
 -->
 
 
-    <iframe src="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20(1).pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+    <embed src="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20(1).pdf&embedded=true" width:"100%" height:"500px">
 
