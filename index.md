@@ -131,7 +131,13 @@ The final element.
 ```
 -->
 
-<html>
-    <embed src="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20(1).pdf&embedded=true" width:"100%" height:"500px">
- </html>
+ <html lang="en" style="width:100%; height:100%;">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>kekayan's Resume</title>
+</head>
+  <body style="width:100%; height:100%; margin:0;">
+    <iframe src="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20(1).pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+  </body>
+</html>
 
