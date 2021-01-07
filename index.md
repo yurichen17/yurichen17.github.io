@@ -143,7 +143,7 @@ The final element.
   </body>
  <br>
  
- <a href="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20(1).pdf" download="Resume-Yuri_Chen">Download Resume</a>
+ <a href="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20-%20January%202020.pdf" download="Resume-Yuri_Chen">Download Resume</a>
  
 </html>
 
