@@ -87,7 +87,7 @@ end
 
 - Researched under the Undergraduate Research Opportunity Program (UROP) in the Zopf Lab at the University of Michigan
  - I was tasked to create a surgical simulation by making a skull through a biomedial CAD program. 
-  <a href="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/blob/main/updated%20urop%20poster%202020%20(1).pdf" download="UROP-Yuri_Chen">Check out my research poster!</a>
+  <a href=https://github.com/yurichen17/yurichen17.github.io/blob/main/updated%20urop%20poster%202020%20(1).pdf" download="UROP-Yuri_Chen">Check out my research poster!</a>
 - Drew illustrations for the book Attachment-Based Yoga & Meditation by Deidre Fay.
 - Created a logo for a restaurant in Cambridge, MA, called Sakana.
   
