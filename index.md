@@ -75,7 +75,7 @@ end
 1.  Item three
 1.  Item four
 -->
-## Classes I'm taking this semester at the University of Michigan
+# Classes I'm taking currently this semester at the University of Michigan
 - EECS 370 - Intro to Computer Organization
 - EECS 442 - Computer Vision (one of my favorite classes so far!)
 - ARTDES 125 - Studio 4D
