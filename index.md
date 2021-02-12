@@ -75,6 +75,12 @@ end
 1.  Item three
 1.  Item four
 -->
+## Classes I'm taking this semester at the University of Michigan
+- EECS 370 - Intro to Computer Organization
+- EECS 442 - Computer Vision (one of my favorite classes so far!)
+- ARTDES 125 - Studio 4D
+- ARTDES 105 - Drawing Visualization 
+
 ## Here are some coding projects I've worked on
 
 - Created a game on Unity from scratch. It plays similar to Minesweeper but it's only a 5x5 grid and it tells you how many bombs are in each row and column.
