@@ -79,23 +79,23 @@ end
 -->
 
 ## Too Many Mines
-- I made this game on Unity, which involves mines, score multipliers, and risk! The game plays with a 5x5 grid that contain either a 1,2,3, or a bomb. There are hint tiles on the sides that tell you how many bombs are in each row or column. Click the bomb and you'll lose. Click all the 2 and 3 multiplier tiles to proceed to the next level. After completing a level, continue on for higher scores, or stop and quit to save your score. <a href="https://chiis.itch.io/too-many-mines"> Try it out here!</a>
+- I made a Unity game, which involves mines, score multipliers, and risk! The game consists of 5x5 grid; each cell contains either a number 1,2,3, or a bomb. There are hint tiles on the sides that tell you how many bombs are in each row or column. Click a bomb and you'll lose. Click all the 2 and 3 multiplier tiles to proceed to the next level. After completing a level, you can push your luck to try for higher scores, but if you hit a bomb, you will lose your score. <a href="https://chiis.itch.io/too-many-mines"> Try it out here!</a>
 
 ![game](lost.png)
 
 ## Undergraduate Research Opportunity Program (UROP) - Zopf Lab
-- I worked as a lab assistant, reasearching about Juvenile Nasopharyngeal Angiofibroma(JNA) tumor. I was tasked to create a realistic simulator to be used by surgeons for practice. I used Mimics and 3-matic software to create a Computer-Aided Design(CAD) model of the skull of someone with the JNA tumor. I also helped create the model of the tumor by using 3D printing to create molds of the tumor out of silicon. The skull, made out of bone, would made out of plastic 3D printing material, while the softer tissue tumor would be made from silicon to create a realistic simulation. <a href="https://github.com/yurichen17/yurichen17.github.io/blob/main/updated%20urop%20poster%202020%20(1).pdf" download="UROP-Yuri_Chen">Check out my research poster!</a>
+- I worked as a lab assistant, researching about Juvenile Nasopharyngeal Angiofibroma(JNA) tumor. I was tasked to create a realistic simulator to be used by surgeons for practice. I used Mimics and 3-matic software to create a Computer-Aided Design(CAD) model of a skull with a JNA tumor. I also helped create the model of the tumor by using 3D printing to create molds of the tumor out of silicon. A lot of thought and research was put into creating a model that would be the most realistic simulation. <a href="https://github.com/yurichen17/yurichen17.github.io/blob/main/updated%20urop%20poster%202020%20(1).pdf" download="UROP-Yuri_Chen">Check out my research poster!</a>
 
 ## Illustration
-- I drew illustrations for the book Attackment-Based Yoga & Meditation by Deidre Fay. Below are a few of the many drawings done for the book, which were done in Clip Studio Paint.
+- I drew illustrations for the book _Attachment-Based Yoga & Meditation by Deidre Fay_. Below are a few of the many illustrations done for the book, which were drawn in Clip Studio Paint.
   ![drawing](anjalimundra1.jpg)
   ![drawing](anjalimundra2.jpg)
   ![drawing](seatedtwist1.jpg)
 
-- I also drew the cover of Becoming Safely Embodied by Deidre Fay. Below is the cover I illustrated on Adobe Photoshop.
+- I also drew the cover of _Becoming Safely Embodied_ by Deidre Fay. Below is the cover I illustrated in Adobe Photoshop.
   ![drawing](becoming_safely_embodied_final.jpg)
 ## Graphic Design
-- I created the logo for a resturant in Cambridge, MA. The resturant's name is Sakana, and I had a lot of fun designing a final product for the client. Below, I show some drafts and the final logo design, after working and communicating with the client. I used Adobe Illustrator, and Adobe Photoshop for this project.
+- I created the logo for a resturant in Cambridge, Massachusetts called Sakana. I had a lot of fun designing a professional piece for the client, and got a lot of experience working and communicating with a client. Below, I show some drafts and the design of the final logo. I used Adobe Illustrator and Adobe Photoshop for this project.
  ![drawing](sakana_logo_drafts.png)
  ![drawing](sakana_final.png)
 - Here are images of the logo being used on the resturant!
