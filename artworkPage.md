@@ -135,17 +135,4 @@ The final element.
 ```
 -->
 
- <html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20-%20January%202020.pdf&embedded=true" style="width:100%; height:400px;" frameborder="0"></iframe>
-  </body>
- <br>
- 
- <a href="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20-%20January%202020.pdf" download="Resume-Yuri_Chen">Download Resume</a>
- 
-</html>
 
