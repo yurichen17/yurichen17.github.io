@@ -11,9 +11,9 @@ layout: default
 [Resume](./another-page.html).
 -->
 
-# Welcome to my website! My name is Yuri Chen.
+# My Projects and Artwork!
 
-I'm currently a sophmore at the University of Michigan for Computer Science. I am also pursuing a minor in Art and Design. My hobbies are video game design, art, and running. 
+Here is some more about the projects I've done!
 
 <!--
 ## Header 2
@@ -75,27 +75,21 @@ end
 1.  Item three
 1.  Item four
 -->
-### Classes I'm taking currently this semester at the University of Michigan
-- EECS 370 - Intro to Computer Organization
-- EECS 442 - Computer Vision (one of my favorite classes so far!)
-- ARTDES 125 - Studio 4D
-- ARTDES 105 - Drawing Visualization 
 
-## Here are some coding projects I've worked on
+## Too Many Mines
+- I made this game on Unity, which involves mines, score multipliers, and risk! The game plays with a 5x5 grid that contain either a 1,2,3, or a bomb. There are hint tiles on the sides that tell you how many bombs are in each row or column. Click the bomb and you'll lose. Click all the 2 and 3 multiplier tiles to proceed to the next level. After completing a level, continue on for higher scores, or stop and quit to save your score. Try it out here!
 
-- Created a game on Unity from scratch. It plays similar to Minesweeper but it's only a 5x5 grid and it tells you how many bombs are in each row and column.
-  - I also created the above game in Swift, but lost all the data due to transfer from a Mac to PC.
-- All projects from the class EECS 281 - Data Structures and Algorithms
-- All projects from the class EECS 280 - Programming and Intro Data Structures
-- All projects from the class EECS 101 - Introduction to Computers and Programming
+## Undergraduate Research Opportunity Program (UROP) - Zopf Lab
+- I worked as a lab assistant, reasearching about Juvenile Nasopharyngeal Angiofibroma(JNA) tumor. I was tasked to create a realistic simulator to be used by surgeons for practice. I used Mimics and 3-matic software to create a Computer-Aided Design(CAD) model of the skull of someone with the JNA tumor. I also helped create the model of the tumor by using 3D printing to create molds of the tumor out of silicon. The skull, made out of bone, would made out of plastic 3D printing material, while the softer tissue tumor would be made from silicon to create a realistic simulation. <a href="https://github.com/yurichen17/yurichen17.github.io/blob/main/updated%20urop%20poster%202020%20(1).pdf" download="UROP-Yuri_Chen">Check out my research poster!</a>
 
-### Other fun projects I've worked on
+## Illustration
+- I drew illustrations for the book Attackment-Based Yoga & Meditation by Deidre Fay. Below are a few of the many drawings done for the book, which were done in Clip Studio Paint.
 
-- Researched under the Undergraduate Research Opportunity Program (UROP) in the Zopf Lab at the University of Michigan
- - I was tasked to create a surgical simulation by making a skull through a biomedial CAD program. <a href="https://github.com/yurichen17/yurichen17.github.io/blob/main/updated%20urop%20poster%202020%20(1).pdf" download="UROP-Yuri_Chen">Check out my research poster!</a>
-- Drew illustrations for the book Attachment-Based Yoga & Meditation by Deidre Fay.
-- Created a logo for a restaurant in Cambridge, MA, called Sakana.
+- I also drew the cover of Becoming Safely Embodied by Deidre Fay. Below is the cover I illustrated on Adobe Photoshop.
   
+## Graphic Design
+-I created the logo for a resturant in Cambridge, MA. The resturant's name is Sakana, and I had a lot of fun designing a final product for the client. Below, I show some drafts and the final logo design, after working and communicating with the client. I used Adobe Illustrator, and Adobe Photoshop for this project.
+
 <!--
   
   - level 2 item
