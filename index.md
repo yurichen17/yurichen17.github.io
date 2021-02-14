@@ -81,7 +81,9 @@ end
 - ARTDES 125 - Studio 4D
 - ARTDES 105 - Drawing Visualization 
 
-## Here are some coding projects I've worked on
+[Click here to see more about my projects](artworkPage.md)
+
+## Here are some coding projects I've worked on 
 
 - Created a game on Unity from scratch. It plays similar to Minesweeper but it's only a 5x5 grid and it tells you how many bombs are in each row and column.
   - I also created the above game in Swift, but lost all the data due to transfer from a Mac to PC.
@@ -89,7 +91,7 @@ end
 - All projects from the class EECS 280 - Programming and Intro Data Structures
 - All projects from the class EECS 101 - Introduction to Computers and Programming
 
-### Other fun projects I've worked on
+### Other fun projects I've worked on 
 
 - Researched under the Undergraduate Research Opportunity Program (UROP) in the Zopf Lab at the University of Michigan
  - I was tasked to create a surgical simulation by making a skull through a biomedial CAD program. <a href="https://github.com/yurichen17/yurichen17.github.io/blob/main/updated%20urop%20poster%202020%20(1).pdf" download="UROP-Yuri_Chen">Check out my research poster!</a>
@@ -144,7 +146,7 @@ The final element.
  <html lang="en" style="width:100%; height:100%;">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>kekayan's Resume</title>
+  <title>Yuri's Resume</title>
 </head>
   <body style="width:100%; height:100%; margin:0;">
     <iframe src="https://docs.google.com/gview?url=https://github.com/yurichen17/yurichen17.github.io/raw/main/Resume%20-%20Yuri%20Chen%20-%20January%202020.pdf&embedded=true" style="width:100%; height:400px;" frameborder="0"></iframe>
