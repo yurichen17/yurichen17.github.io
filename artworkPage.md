@@ -15,7 +15,7 @@ layout: default
 
 Here is some more about the projects I've done!
 
-[Back to Main Page](index.md)
+[Back to My Main Page](index.md)
 <!--
 ## Header 2
 
