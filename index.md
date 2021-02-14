@@ -81,7 +81,7 @@ end
 - ARTDES 125 - Studio 4D
 - ARTDES 105 - Drawing Visualization 
 
-[Click here to see more about my projects](artworkPage.md)
+####[Click here to get a more in depth look at my projects](artworkPage.md)
 
 ## Here are some coding projects I've worked on 
 
