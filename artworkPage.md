@@ -85,7 +85,7 @@ end
 
 ## Illustration
 - I drew illustrations for the book Attackment-Based Yoga & Meditation by Deidre Fay. Below are a few of the many drawings done for the book, which were done in Clip Studio Paint.
-  ![drawing](anjalimundra1.jpg)
+  ![drawing](anjalimundra1.jpg[width=100px])
   ![drawing](anjalimundra2.jpg)
   ![drawing](seatedtwist1.jpg)
 
