@@ -88,7 +88,7 @@ end
 - I also drew the cover of Becoming Safely Embodied by Deidre Fay. Below is the cover I illustrated on Adobe Photoshop.
   
 ## Graphic Design
--I created the logo for a resturant in Cambridge, MA. The resturant's name is Sakana, and I had a lot of fun designing a final product for the client. Below, I show some drafts and the final logo design, after working and communicating with the client. I used Adobe Illustrator, and Adobe Photoshop for this project.
+- I created the logo for a resturant in Cambridge, MA. The resturant's name is Sakana, and I had a lot of fun designing a final product for the client. Below, I show some drafts and the final logo design, after working and communicating with the client. I used Adobe Illustrator, and Adobe Photoshop for this project.
 
 <!--
   
