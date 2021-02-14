@@ -87,7 +87,7 @@ end
 - I drew illustrations for the book Attackment-Based Yoga & Meditation by Deidre Fay. Below are a few of the many drawings done for the book, which were done in Clip Studio Paint.
 
 - I also drew the cover of Becoming Safely Embodied by Deidre Fay. Below is the cover I illustrated on Adobe Photoshop.
-  
+  ![drawing](becoming_safely_embodied_final.jpg)
 ## Graphic Design
 - I created the logo for a resturant in Cambridge, MA. The resturant's name is Sakana, and I had a lot of fun designing a final product for the client. Below, I show some drafts and the final logo design, after working and communicating with the client. I used Adobe Illustrator, and Adobe Photoshop for this project.
 
