@@ -81,10 +81,10 @@ end
 - ARTDES 125 - Studio 4D
 - ARTDES 105 - Drawing Visualization 
 
-# Projects
+## Projects
 [Click here to get a more in depth look at my projects](artworkPage.md)
 
-## Here are some coding projects I've worked on 
+# Here are some coding projects I've worked on 
 
 - Created a game on Unity from scratch. It plays similar to Minesweeper but it's only a 5x5 grid and it tells you how many bombs are in each row and column.
   - I also created the above game in Swift, but lost all the data due to transfer from a Mac to PC.
@@ -92,7 +92,7 @@ end
 - All projects from the class EECS 280 - Programming and Intro Data Structures
 - All projects from the class EECS 101 - Introduction to Computers and Programming
 
-### Other fun projects I've worked on 
+# Other fun projects I've worked on 
 
 - Researched under the Undergraduate Research Opportunity Program (UROP) in the Zopf Lab at the University of Michigan
  - I was tasked to create a surgical simulation by making a skull through a biomedial CAD program. <a href="https://github.com/yurichen17/yurichen17.github.io/blob/main/updated%20urop%20poster%202020%20(1).pdf" download="UROP-Yuri_Chen">Check out my research poster!</a>
