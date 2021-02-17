@@ -13,7 +13,7 @@ layout: default
 
 # Welcome to my website! My name is Yuri Chen.
 
-I'm currently a sophmore at University of Michigan for Computer Science. I am also pursuing a minor in Art and Design. My hobbies are video game design, art, and running. 
+I'm currently a sophmore at University of Michigan for Computer Science. I am also pursuing a minor in Art and Design. My hobbies are doing jigsaw puzzles, knitting, video game design, art, and running. 
 
 <!--
 ## Header 2
