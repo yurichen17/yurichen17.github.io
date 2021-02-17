@@ -1,3 +1,3 @@
 # yurichen17.github.io
 
-#my website!
+This is my website! It contains my interests, projects, and resume.
