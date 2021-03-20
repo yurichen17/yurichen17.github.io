@@ -75,7 +75,7 @@ end
 1.  Item three
 1.  Item four
 -->
-### Clubs I'm in!
+### Clubs I'm in at UMich
 - UM Autonomous Robotic Vehicle 
   - I'm on the computer vision subteam, and as of now, we are creating side projects in replacement of the competition that occurs yearly called the Intelligent Ground Vehicle Competition. Right now, I'm in the process of making an autonomous remote controlled car by implementing computer vision tactics. 
 - UMich Esports 
