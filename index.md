@@ -76,8 +76,10 @@ end
 1.  Item four
 -->
 ### Clubs I'm in!
-- UM Autonomous Robotic Vehicle - I'm on the computer vision subteam, and as of now, we are creating side projects in replacement of the competition that occurs yearly called the Intelligent Ground Vehicle Competition. Right now, I'm in the process of making an autonomous remote controlled car by implementing computer vision tactics. 
-- UMich Esports - I am the manager of the University of Michigan League of Legends C Team, so I plan practices and meets with other schools. I have also initiated and set up multiple community events to simulate engagement within the large community of 40+ people that like League of Legends at Umich.
+- UM Autonomous Robotic Vehicle 
+  - I'm on the computer vision subteam, and as of now, we are creating side projects in replacement of the competition that occurs yearly called the Intelligent Ground Vehicle Competition. Right now, I'm in the process of making an autonomous remote controlled car by implementing computer vision tactics. 
+- UMich Esports 
+  - I am the manager of the University of Michigan League of Legends C Team, so I plan practices and meets with other schools. I have also initiated and set up multiple community events to simulate engagement within the large community of 40+ people that like League of Legends at Umich.
 
 ### Classes I'm taking currently this semester at the University of Michigan
 - EECS 370 - Intro to Computer Organization
